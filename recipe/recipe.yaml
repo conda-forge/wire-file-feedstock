@@ -2,7 +2,7 @@
 schema_version: 1
 
 context:
-  version: "0.7.0"
+  version: "0.7.1"
 
 package:
   name: wire-file
@@ -10,7 +10,7 @@ package:
 
 source:
   - url: https://pypi.org/packages/source/w/wire-file/wire_file-${{ version }}.tar.gz
-    sha256: 099bac80d581fbd99962d1a80cef771dc9d09e0c10e5fd0042b30df303c10fff
+    sha256: c7af0ffdd5f58c44f09dfd265bc968725c93f7ec48482dbf85a5e9f5284ba4a9
 
 build:
   number: 0
